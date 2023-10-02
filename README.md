@@ -3,7 +3,7 @@
     <img src="https://laravel.com/img/logomark.min.svg" alt="laravel logo" width="75" height="75">
   </a>
   <a href="https://demo.bootstrapdash.com/skydash-free/template/">
-    <img src="https://demo.bootstrapdash.com/skydash-free/template/images/logo.svg" alt="Stisla logo" width="75" height="75">
+    <img src="https://demo.bootstrapdash.com/skydash-free/template/images/logo.svg" alt="Stisla logo" width="100%" height="175">
   </a>
 </p>
 
